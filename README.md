@@ -1,4 +1,4 @@
-# BIT 2118 Scientific Computing: Group Work Portfolio
+# BIT 2118 Scientific Computing
 
 Student name: GICHINI LOISE WAMBUI  
 Reg. No: BSCCS/2025/40219 
@@ -11,7 +11,7 @@ Task 1 (Data Science Essentials with Python) is the self-paced prerequisite and 
 
 | Task | Topic | Documentation | Original program | Modified program |
 |---|---|---|---|---|
-| 2 | NumPy Arrays and Numerical Computation | [docs/Task_02.md](docs/Task_02.md) | `code/Task_02_numpy_arrays.py` | `code/Task_02_modified.py` |
+| 2 | NumPy Arrays and Numerical Computation | [docs/Task_02.md](docs/Task_02.md) | [Task_02_numpy_arrays.py](code/Task_02_numpy_arrays.py) | [Task_02_modified.py](code/Task_02_modified.py) |
 | 3 | Mathematical Functions and Vectorization | [docs/Task_03.md](docs/Task_03.md) | `code/Task_03_vectorization.py` | `code/Task_03_modified.py` |
 | 4 | Floating-Point Arithmetic and Numerical Errors | [docs/Task_04.md](docs/Task_04.md) | `code/Task_04_numerical_errors.py` | `code/Task_04_modified.py` |
 | 5 | Matrix Algebra and Matrix Operations | [docs/Task_05.md](docs/Task_05.md) | `code/Task_05_matrix_algebra.py` | `code/Task_05_modified.py` |
@@ -43,5 +43,4 @@ Programs that draw graphs save a PNG in `figures/` and also call `plt.show()`. `
 - Task 13: the 10-minute time grid is clipped to the data range, since `np.arange` with a 1/6 step can overshoot 14.0 and `interp1d` rejects it.
 - Task 16: the f-string that was split across lines in the PDF was joined.
 - Tasks 8, 10, 13-15, 17, 18, 20: added a `plt.savefig` call and, in a few, an extra iteration-count print.
-
 
