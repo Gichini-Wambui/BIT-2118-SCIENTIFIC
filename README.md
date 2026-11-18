@@ -1,6 +1,7 @@
 # BIT 2118 Scientific Computing: Group Work Portfolio
 
-**Student name:** _your name_  **Reg. No:** _your number_  **Group:** _your group_
+Student name:GICHINI LOISE WAMBUI  
+Reg. No:BSCCS/2025/40219 
 
 Task 1 (Data Science Essentials with Python) is the self-paced prerequisite and has no program. Tasks 2-20 each have:
 
@@ -43,6 +44,4 @@ Programs that draw graphs save a PNG in `figures/` and also call `plt.show()`. `
 - Task 16: the f-string that was split across lines in the PDF was joined.
 - Tasks 8, 10, 13-15, 17, 18, 20: added a `plt.savefig` call and, in a few, an extra iteration-count print.
 
-## Individual submission
-Push this repository to **your own** GitHub account (not a group repository), then submit the link and documentation on VLMS.
-The new cases here are worked examples to build on; change the data/assumptions where you can and be ready to explain every step in your own words.
+
