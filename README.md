@@ -1,7 +1,7 @@
 # BIT 2118 Scientific Computing: Group Work Portfolio
 
-Student name:GICHINI LOISE WAMBUI  
-Reg. No:BSCCS/2025/40219 
+Student name: GICHINI LOISE WAMBUI  
+Reg. No: BSCCS/2025/40219 
 
 Task 1 (Data Science Essentials with Python) is the self-paced prerequisite and has no program. Tasks 2-20 each have:
 
