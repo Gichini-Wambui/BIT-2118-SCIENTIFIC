@@ -12,24 +12,24 @@ Task 1 (Data Science Essentials with Python) is the self-paced prerequisite and 
 | Task | Topic | Documentation | Original program | Modified program |
 |---|---|---|---|---|
 | 2 | NumPy Arrays and Numerical Computation | [docs/Task_02.md](docs/Task_02.md) | [Task_02_numpy_arrays.py](code/Task_02_numpy_arrays.py) | [Task_02_modified.py](code/Task_02_modified.py) |
-| 3 | Mathematical Functions and Vectorization | [docs/Task_03.md](docs/Task_03.md) | `code/Task_03_vectorization.py` | `code/Task_03_modified.py` |
-| 4 | Floating-Point Arithmetic and Numerical Errors | [docs/Task_04.md](docs/Task_04.md) | `code/Task_04_numerical_errors.py` | `code/Task_04_modified.py` |
-| 5 | Matrix Algebra and Matrix Operations | [docs/Task_05.md](docs/Task_05.md) | `code/Task_05_matrix_algebra.py` | `code/Task_05_modified.py` |
-| 6 | Solution of Systems of Linear Equations | [docs/Task_06.md](docs/Task_06.md) | `code/Task_06_linear_systems.py` | `code/Task_06_modified.py` |
-| 7 | Gaussian Elimination and LU Decomposition | [docs/Task_07.md](docs/Task_07.md) | `code/Task_07_gaussian_lu.py` | `code/Task_07_modified.py` |
-| 8 | Iterative Methods for Linear Systems | [docs/Task_08.md](docs/Task_08.md) | `code/Task_08_iterative_linear.py` | `code/Task_08_modified.py` |
-| 9 | Eigenvalues and Eigenvectors | [docs/Task_09.md](docs/Task_09.md) | `code/Task_09_eigenvalues.py` | `code/Task_09_modified.py` |
-| 10 | Root Finding: Bisection and Fixed-Point | [docs/Task_10.md](docs/Task_10.md) | `code/Task_10_bisection_fixed_point.py` | `code/Task_10_modified.py` |
-| 11 | Root Finding: Newton-Raphson and Secant | [docs/Task_11.md](docs/Task_11.md) | `code/Task_11_newton_secant.py` | `code/Task_11_modified.py` |
-| 12 | Polynomial and Nonlinear Equation Solving | [docs/Task_12.md](docs/Task_12.md) | `code/Task_12_nonlinear_equations.py` | `code/Task_12_modified.py` |
-| 13 | Interpolation | [docs/Task_13.md](docs/Task_13.md) | `code/Task_13_interpolation.py` | `code/Task_13_modified.py` |
-| 14 | Curve Fitting and Approximation | [docs/Task_14.md](docs/Task_14.md) | `code/Task_14_curve_fitting.py` | `code/Task_14_modified.py` |
-| 15 | Numerical Differentiation | [docs/Task_15.md](docs/Task_15.md) | `code/Task_15_numerical_differentiation.py` | `code/Task_15_modified.py` |
-| 16 | Numerical Integration | [docs/Task_16.md](docs/Task_16.md) | `code/Task_16_numerical_integration.py` | `code/Task_16_modified.py` |
-| 17 | ODEs - Euler Method | [docs/Task_17.md](docs/Task_17.md) | `code/Task_17_euler_ode.py` | `code/Task_17_modified.py` |
-| 18 | ODEs Using SciPy | [docs/Task_18.md](docs/Task_18.md) | `code/Task_18_scipy_ode.py` | `code/Task_18_modified.py` |
-| 19 | Numerical Optimization | [docs/Task_19.md](docs/Task_19.md) | `code/Task_19_optimization.py` | `code/Task_19_modified.py` |
-| 20 | Random Numbers and Monte Carlo Methods | [docs/Task_20.md](docs/Task_20.md) | `code/Task_20_monte_carlo.py` | `code/Task_20_modified.py` |
+| 3 | Mathematical Functions and Vectorization | [docs/Task_03.md](docs/Task_03.md) | [Task_03_vectorization.py](code/Task_03_vectorization.py) | [Task_03_modified.py](code/Task_03_modified.py) |
+| 4 | Floating-Point Arithmetic and Numerical Errors | [docs/Task_04.md](docs/Task_04.md) | [Task_04_numerical_errors.py](code/Task_04_numerical_errors.py) | [Task_04_modified.py](code/Task_04_modified.py) |
+| 5 | Matrix Algebra and Matrix Operations | [docs/Task_05.md](docs/Task_05.md) | [Task_05_matrix_algebra.py](code/Task_05_matrix_algebra.py) | [Task_05_modified.py](code/Task_05_modified.py) |
+| 6 | Solution of Systems of Linear Equations | [docs/Task_06.md](docs/Task_06.md) | [Task_06_linear_systems.py](code/Task_06_linear_systems.py) | [Task_06_modified.py](code/Task_06_modified.py) |
+| 7 | Gaussian Elimination and LU Decomposition | [docs/Task_07.md](docs/Task_07.md) | [Task_07_gaussian_lu.py](code/Task_07_gaussian_lu.py) | [Task_07_modified.py](code/Task_07_modified.py) |
+| 8 | Iterative Methods for Linear Systems | [docs/Task_08.md](docs/Task_08.md) | [Task_08_iterative_linear.py](code/Task_08_iterative_linear.py) | [Task_08_modified.py](code/Task_08_modified.py) |
+| 9 | Eigenvalues and Eigenvectors | [docs/Task_09.md](docs/Task_09.md) | [Task_09_eigenvalues.py](code/Task_09_eigenvalues.py) | [Task_09_modified.py](code/Task_09_modified.py) |
+| 10 | Root Finding: Bisection and Fixed-Point | [docs/Task_10.md](docs/Task_10.md) | [Task_10_bisection_fixed_point.py](code/Task_10_bisection_fixed_point.py) | [Task_10_modified.py](code/Task_10_modified.py) |
+| 11 | Root Finding: Newton-Raphson and Secant | [docs/Task_11.md](docs/Task_11.md) | [Task_11_newton_secant.py](code/Task_11_newton_secant.py) | [Task_11_modified.py](code/Task_11_modified.py) |
+| 12 | Polynomial and Nonlinear Equation Solving | [docs/Task_12.md](docs/Task_12.md) | [Task_12_nonlinear_equations.py](code/Task_12_nonlinear_equations.py) | [Task_12_modified.py](code/Task_12_modified.py) |
+| 13 | Interpolation | [docs/Task_13.md](docs/Task_13.md) | [Task_13_interpolation.py](code/Task_13_interpolation.py) | [Task_13_modified.py](code/Task_13_modified.py) |
+| 14 | Curve Fitting and Approximation | [docs/Task_14.md](docs/Task_14.md) | [Task_14_curve_fitting.py](code/Task_14_curve_fitting.py) | [Task_14_modified.py](code/Task_14_modified.py) |
+| 15 | Numerical Differentiation | [docs/Task_15.md](docs/Task_15.md) | [Task_15_numerical_differentiation.py](code/Task_15_numerical_differentiation.py) | [Task_15_modified.py](code/Task_15_modified.py) |
+| 16 | Numerical Integration | [docs/Task_16.md](docs/Task_16.md) | [Task_16_numerical_integration.py](code/Task_16_numerical_integration.py) | [Task_16_modified.py](code/Task_16_modified.py) |
+| 17 | ODEs - Euler Method | [docs/Task_17.md](docs/Task_17.md) | [Task_17_euler_ode.py](code/Task_17_euler_ode.py) | [Task_17_modified.py](code/Task_17_modified.py) |
+| 18 | ODEs Using SciPy | [docs/Task_18.md](docs/Task_18.md) | [Task_18_scipy_ode.py](code/Task_18_scipy_ode.py) | [Task_18_modified.py](code/Task_18_modified.py) |
+| 19 | Numerical Optimization | [docs/Task_19.md](docs/Task_19.md) | [Task_19_optimization.py](code/Task_19_optimization.py) | [Task_19_modified.py](code/Task_19_modified.py) |
+| 20 | Random Numbers and Monte Carlo Methods | [docs/Task_20.md](docs/Task_20.md) | [Task_20_monte_carlo.py](code/Task_20_monte_carlo.py) | [Task_20_modified.py](code/Task_20_modified.py) |
 
 ## Running the code
 ```bash
